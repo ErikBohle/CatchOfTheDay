@@ -5,7 +5,7 @@ Empty shop:
 https://zen-yonath-d51459.netlify.app/
 
 
-Premade shop:
+Premade shop/ No login required:
 https://zen-yonath-d51459.netlify.app/store/bewildered-sparkling-halves
 
 ## Built With
